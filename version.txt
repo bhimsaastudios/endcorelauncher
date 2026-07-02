@@ -1,2 +1,2 @@
-1.0.1
-https://github.com/bhimsaastudios/endcorelauncher/releases/download/v1.0.1/EndCore.Launcher.Setup.exe
+1.0.2
+https://github.com/bhimsaastudios/endcorelauncher/releases/download/v1.0.2/EndCore.Launcher.Setup.exe
